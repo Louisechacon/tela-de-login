@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    border-radius: 6px;
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+    background-color:lightpink;
+}
+
+body {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color:hotpink;
+}
+
+input {
+border: none;
+border-radius: 3px;
+height: 32px;
+}
+
+button {
+    border: none;
+    border-radius: 3px;
+    width: 173px;
+    height: 32px;
+    background-color:deeppink
+}
+
+a {
+    padding: 10px;
+}
